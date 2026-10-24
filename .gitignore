@@ -1,0 +1,30 @@
+# Environment & Secrets
+.env
+.env.*
+*.env
+config.js
+keys.js
+secrets.json
+
+# Dependencies & Build
+node_modules/
+dist/
+build/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.venv/
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Caches & Logs
+*.log
+.cache/
